@@ -1,1 +1,35 @@
 /*  your css code here. If applicable */
+#h1,h2{
+    text-align: center;
+}
+#body{
+    background-color: rgb(204, 204, 204)
+}
+#songlist{
+    background-color: white;
+    color: black;
+}
+.player_one{
+    background-color: rgb(255, 255, 255);  
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.player_two{
+    background-color: rgb(255, 255, 255);
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 10px;
+   position: relative;
+   left: 70px;
+    width: 1200px;
+    height: 450px;
+}
+li{
+    padding: 5px;
+}
+#video{
+    
+}
